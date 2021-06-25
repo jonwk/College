@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+
+<!DOCTYPE reviews[
+<!ELEMENT reviews (entry*)>
+<!ATTLIST entry isbn #REQUIRED>
+<!ELEMENT entry   (title, price_total,review*,review2+)>
+<!ELEMENT title   (#PCDATA)>
+<!ELEMENT price   (#PCDATA)>
+<!ELEMENT review  (#PCDATA)>
+]>
+
+<reviews>
+    <entry>
+        <title>Data on the Web</title>
+        <price_total>34.95</price-total>
+        <review>
+               A very good discussion of semi-structured database
+               systems and XML.
+        </review>
+    </entry>
+    <entry>
+        <title isbn=12345>Advanced Programming in the Unix environment<\title>
+        <price>65.95</price>
+        <review>
+               A clear and detailed discussion of UNIX programming.
+        </review>
+    </entry>
+    <entry>
+        <title>TCP/IP Illustrated</title>
+        <price_total>65.95</Price_total>
+               One of the best books on TCP/IP.
+        </review>
+    </entry>
+</reviews>
