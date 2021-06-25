@@ -1,0 +1,12 @@
+The TMRC people were awed.  THIS MACHINE DID NOT USE CARDS.  The
+user would first punch in a program onto a long, thin paper tape
+with a Flexowriter (there were a few extra Flexowriters in an
+adjoining room), then sit at the console, feed in the program by
+running the tape through a reader, and be able to sit there while
+the program ran.  If something went wrong with the program, you
+knew immediately, and you could diagnose the problem by using
+some of the switches, or checking out which of the lights were
+blinking or lit.  The computer even had an audio output:  while
+the program ran, a speaker underneath the console would make a
+sort of music, like a poorly tuned electric organ whose notes
+would vibrate with a fuzzy, ethereal din.
