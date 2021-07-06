@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<university>
+<school code='CS' format="virtual">
+    <SchoolName>ComputerScience</SchoolName>
+    <headofschool>
+        <title>Dr</title>
+        <firstname>Freda</firstname>
+        <lastname>Walsh</lastname>
+    </headofschool>
+    <course level="undergraduate">
+        <studentquota>150</studentquota>
+    </course>
+    <course>
+        <studentquota>50</studentquota>
+    </course>
+</school>
+<school code='MED' format="facetoface">
+    <SchoolName>Medicine</SchoolName>
+    <headofschool>
+        <title>Mr</title>
+        <firstname>Jeremy</firstname>
+        <firstname>Paul</firstname>
+        <lastname>Byrne</lastname>
+    </headofschool>
+    <course level="undergraduate">
+        <studentquota/>
+    </course>
+</school>
+<school code='ENG'>
+    <SchoolName>Engineering</SchoolName>
+    <headofschool>
+        <firstname>Amy</firstname>
+        <lastname>Smith</lastname>
+    </headofschool>
+</school>
+</university>
